@@ -21,7 +21,7 @@ The landing page welcomes users with a dramatic background image and options to 
 The home screen showcases popular singles and allows users to subscribe to their favorite artists.
 
 ### 
-Mu![Music3](https://github.com/yashchavan92284/MusicAppUI/assets/93502034/522b1f8f-b856-4d70-b1e5-a987f6972199)
-sic Player
+![Music3](https://github.com/yashchavan92284/MusicAppUI/assets/93502034/522b1f8f-b856-4d70-b1e5-a987f6972199)
 
+Music Player
 The music player screen provides playback controls along with detailed artwork of the currently playing track.
